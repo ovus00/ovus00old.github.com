@@ -18,6 +18,13 @@ Following completion of my Masters in Advanced Computer Science at the Universit
 
 As a part of my research, I collaborate with large multi-disciplinary teams of academics, industry partners, city councils and planners. I was also a core member of the research and development team behind the world’s first football transfer news prediction system, FootballWhispers. I have worked in several large research and industrial projects funded by the European Union, Innovate UK and European Space Agency.
 
+### Teaching
+
+#Big Data 
+#Information Visualisation
+
 ### Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Tw:] (https://twitter.com/ovus00)
+[LinkedIn:](www.linkedin.com/in/suvodeep)
+
