@@ -4,11 +4,11 @@ I am a Lecturer in the Department of Computing at Sheffield Hallam University. M
 
 ### Research Interests
 
-*Visual Analytics
-*Big Data Analytics
-*Social Media Analytics
-*Crowdsourcing
-*Human-Computer Interaction
+* Visual Analytics
+* Big Data Analytics
+* Social Media Analytics
+* Crowdsourcing and Citizen Science
+* Human-Computer Interaction
 
 ### Research 
 
@@ -20,11 +20,11 @@ As a part of my research, I collaborate with large multi-disciplinary teams of a
 
 ### Teaching
 
-*Big Data 
-*Information Visualisation
+* Big Data 
+* Information Visualisation
 
 ### Contact
 
-[Tw:](https://twitter.com/ovus00)
+Tw: [@ovus00](https://twitter.com/ovus00)
 [LinkedIn:](www.linkedin.com/in/suvodeep)
 
