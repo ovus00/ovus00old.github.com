@@ -1,6 +1,6 @@
 ## Summary
 
-I am a Lecturer in the Department of Computing at Sheffield Hallam University. My primary research interest is Big Data Analytics and Crowdsourcing. I conduct inter-disciplinary research on highly engaging, interactive and visual mechanisms in conjunction with complex querying techniques for seamless navigation, exploration and understanding of complex datasets.
+I am a Lecturer in the Information School at the University of Sheffield. My primary research interest is Big Data Analytics and Crowdsourcing. I conduct inter-disciplinary research on highly engaging, interactive and visual mechanisms in conjunction with complex querying techniques for seamless navigation, exploration and understanding of complex datasets.
 
 ### Research Interests
 
@@ -22,6 +22,8 @@ As a part of my research, I collaborate with large multi-disciplinary teams of a
 
 * Big Data 
 * Information Visualisation
+* Knowledge Management
+
 
 ### Contact
 
