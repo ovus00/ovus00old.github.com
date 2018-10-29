@@ -24,11 +24,11 @@ As a part of my research, I collaborate with large multi-disciplinary teams of a
 * Information Visualisation
 * Knowledge Management
 
+### Publications(https://ovus00.github.io/publications)
+
 
 ### Contact
 
 [@ovus00](https://twitter.com/ovus00)
-
-
 [LinkedIn](www.linkedin.com/in/suvodeep)
 
