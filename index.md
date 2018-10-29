@@ -35,5 +35,5 @@ As a part of my research, I collaborate with large multi-disciplinary teams of a
 
 [@ovus00](https://twitter.com/ovus00)
 
-[LinkedIn](www.linkedin.com/in/suvodeep)
+[LinkedIn](http://www.linkedin.com/in/suvodeep)
 
