@@ -25,6 +25,7 @@ As a part of my research, I collaborate with large multi-disciplinary teams of a
 * Knowledge Management
 
 ### Publications
+
 [Google Scholar](https://scholar.google.com/citations?user=q2zePtUAAAAJ)  
 
 [List of publications](https://ovus00.github.io/publications)
