@@ -1,4 +1,11 @@
-theme: jekyll-theme-cayman
-title: Dr. Suvodeep Mazumdar
 plugins:
   - jekyll-seo-tag
+theme: jekyll-theme-cayman
+title: Dr. Suvodeep Mazumdar
+url: https://ovus00.github.io/
+twitter:
+  username:ovus00
+  
+social:
+  name:Suvodeep Mazumdar
+  links:https://twitter.com/ovus00
