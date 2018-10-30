@@ -2,7 +2,7 @@ plugins:
   - jekyll-seo-tag
 theme: jekyll-theme-cayman
 title: Dr. Suvodeep Mazumdar
-background-image: url('/img/cover.jpg')
+cover_image: https://ovus00.github.io/img/cover.jpg
 url: https://ovus00.github.io/
 twitter:
   username:ovus00
